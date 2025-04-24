@@ -46,4 +46,4 @@ If you use any part of this work, please cite it as:
 
 ## 📬 Contact
 
-For questions, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/betzvarghese) or [GitHub](https://github.com/Betzvarghese).
+For questions, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/betzy-s-varghese/) or [GitHub](https://github.com/Betzvarghese).
